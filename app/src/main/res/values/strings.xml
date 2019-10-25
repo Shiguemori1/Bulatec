@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bulatec</string>
+    <string name="action_settings">Settings</string>
+    <string name="dica_nome_fila">Digite o nome do remédio</string>
+</resources>
